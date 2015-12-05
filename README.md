@@ -27,3 +27,5 @@
  * 1995套票
 * 雜談
 * 分析
+
+歷史Blog存檔(http://eason007.iteye.com/)——幸好當年用rss同步到javaeye，要不然什麼鬼歷史都沒鳥。。。
