@@ -33,6 +33,6 @@
   * 性能优化关键点
 * 分析
 
-歷史Blog存檔(http://eason007.iteye.com/)
+歷史Blog存檔(http://eason007.iteye.com/，https://code.google.com/p/e-fw/)
 
 ——幸好當年用rss同步到javaeye，要不然什麼鬼歷史都沒鳥。。。
