@@ -36,6 +36,8 @@
   * [无限分级树](https://github.com/eason007/none/blob/master/asp/tree.md)
 * PHP
   * [E_FW](https://github.com/eason007/e-fw)
+  * 性能分析
+  * 日誌要求
 * 分析
 
 歷史Blog存檔(http://eason007.iteye.com/)
