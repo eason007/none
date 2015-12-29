@@ -36,6 +36,7 @@
   * [无限分级树](https://github.com/eason007/none/blob/master/asp/tree.md)
 * PHP
   * [E_FW](https://github.com/eason007/e-fw)
+  * [表入口模式](https://github.com/eason007/none/blob/master/php/table-data-gateway.md)
   * 性能分析
   * 日誌要求
 * 分析
