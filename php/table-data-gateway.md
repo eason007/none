@@ -50,4 +50,4 @@
 相關資料：
 * [架构模式数据源模式之：表数据入口Table Data Gateway、行数据入口Row Data Gateway、活动记录Active Record](http://www.lxway.com/615244092.htm)
 * [为什么 FleaPHP 使用 Table Data Gateway 代替 Active Record 来提供数据库访问服务?](http://www.blogdaren.com/?post=1095)
-* [一對多](http://openhome.cc/Gossip/HibernateGossip/OneToMany.html)
+* [一對多](http://openhome.cc/Gossip/HibernateGossip/OneToMany.html) - 在 多對一 、一對多 中都是單向關聯，也就是其中一方關聯到另一方，而另一方不知道自己被關聯。
