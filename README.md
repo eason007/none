@@ -26,8 +26,14 @@
  * 青藏公路——特14
  * 三國——
  * 水滸——
- * 1994套票
- * 1995套票
+ * 澳.中国内地景观
+ * 澳.世界遗产
+ * 澳.易经、八卦
+ * 澳.澳门街道
+ * 澳.博物馆和收藏品
+ * 澳.文学与人物
+ * 澳.科学与科技
+ * 澳.祖国山河
 * 前端
   * [生態環境建設](https://github.com/eason007/none/blob/master/frontend/environment-building.md)
   * [性能优化关键点](https://github.com/eason007/none/blob/master/frontend/profile-keypoint.md)
