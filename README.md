@@ -26,14 +26,16 @@
  * 青藏公路——特14
  * 三國——
  * 水滸——
- * 澳.中国内地景观
+ * [澳.中国内地景观](https://github.com/eason007/none/blob/master/philately/mac.zhongguo-neidi-jingguan.md)
  * 澳.世界遗产
- * 澳.易经、八卦
- * 澳.澳门街道
- * 澳.博物馆和收藏品
- * 澳.文学与人物
+ * 澳.易经、八卦(https://github.com/eason007/none/blob/master/philately/mac.yijing-bagua.md)
+ * 澳.澳门街道(https://github.com/eason007/none/blob/master/philately/mac.aomen-jiedao.md)
+ * 澳.博物馆和收藏品(https://github.com/eason007/none/blob/master/philately/mac.bowuguan-shoucangpin.md)
+ * 澳.文学与人物(https://github.com/eason007/none/blob/master/philately/mac.wenxue-renwu.md)
  * 澳.科学与科技
- * 澳.祖国山河
+ * 澳.祖国山河(https://github.com/eason007/none/blob/master/philately/mac.zuguo-shanhe.md)
+ * 澳.傳說與神話(https://github.com/eason007/none/blob/master/philately/mac.chuanshuo-shenhua.md)
+ * 澳.成語故事
 * 前端
   * [生態環境建設](https://github.com/eason007/none/blob/master/frontend/environment-building.md)
   * [性能优化关键点](https://github.com/eason007/none/blob/master/frontend/profile-keypoint.md)
