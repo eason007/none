@@ -40,6 +40,8 @@
 * 前端
   * [生態環境建設](https://github.com/eason007/none/blob/master/frontend/environment-building.md)
   * [性能优化关键点](https://github.com/eason007/none/blob/master/frontend/profile-keypoint.md)
+  * [Node.js在中台的应用价值](https://github.com/eason007/none/blob/master/frontend/nodejs-4-midway.md)
+  * [组件(Component)和模块(Module)](https://github.com/eason007/none/blob/master/frontend/component-or-module.md)
 * ASP
   * [EliteCMS(曾用名：NBArticle)](https://github.com/eason007/nbarticle)
   * [无限分级树](https://github.com/eason007/none/blob/master/asp/tree.md)
