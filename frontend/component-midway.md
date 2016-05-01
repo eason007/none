@@ -17,7 +17,7 @@
   ```
   {
     id : ,
-    name : ,
+    name : '',
     API : '',
     params : 'key1=val1&key2=$GET.userId&key2=$POST.addTime'
   }
@@ -32,11 +32,15 @@
 
   > 页面与页面组件绑定
 
-  ```JSON
+  ```
   {
-    id : ,
-    name : ,
-    API : '',
-    params : 'key1=val1&key2=$GET.userId&key2=$POST.addTime'
+    dataSet : [{
+      id : 73,            //数据集id
+      name : 'brand'      //变量名
+    }, {
+      id : 88,            //数据集id
+      name : '',          //变量名
+      request : ['brand'] //依赖变量
+    }]
   }
   ```
