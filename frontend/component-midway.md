@@ -22,6 +22,7 @@
     params : 'key1=val1&key2=$GET.userId&key2=$POST.addTime'
   }
   ```
+  >> 缓存的定义
 
   1. 前端代码npm仓库
   1. 页面管理配置平台
@@ -34,13 +35,17 @@
 
   ```
   {
-    dataSet : [{
-      id : 73,            //数据集id
-      name : 'brand'      //变量名
+    router : 'controller=&model=',//路由定义
+    dataSet : [{                  //页面的数据集定义
+      id : 73,                    //数据集id
+      name : 'brand'              //变量名
     }, {
-      id : 88,            //数据集id
-      name : '',          //变量名
-      request : ['brand'] //依赖变量
+      id : 88,                    //数据集id
+      name : '',                  //变量名
+      request : ['brand']         //依赖变量
+    }],
+    rowSet : [{                   //组件定义
+
     }]
   }
   ```
