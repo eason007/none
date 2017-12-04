@@ -5,7 +5,7 @@
 
 目錄
 * 經濟
-  * 201712  美國減企業稅，25%-10%
+  * 201712  美國減企業稅，35%-20%
   * 201712  未來樓市發展展望(https://github.com/eason007/none/blob/master/economic/201712-property-market-outlook.md)
 * stock
   * 2012 NYSE:VIPS
