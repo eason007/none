@@ -8,6 +8,7 @@
   * 201712  美國減企業稅，35%-20%
   * 201712  未來樓市發展展望(https://github.com/eason007/none/blob/master/economic/201712-property-market-outlook.md)
   * 201912  SHA:601318现在的核心资产，NASDAQ:TSLA未来十年的核心资产？？
+  * 2020201 2020 新的一年，如何选择你的房贷(https://github.com/eason007/none/blob/master/economic/2020_how-to-choose-for-u-housing-oans.md)
 * stock
   * 2012 NYSE:VIPS
   * 2014 NYSE:BABA
